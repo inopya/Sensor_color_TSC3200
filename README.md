@@ -1,4 +1,4 @@
-# Sensor_color_TSC3200
+# Sensor_color_TSC_3200
 
 Detector de color con módulo basado en chip TSC3200
 
