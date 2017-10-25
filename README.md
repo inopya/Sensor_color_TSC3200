@@ -7,7 +7,8 @@ Autor: Eulogio López Cayuela
 Versión 1.1    Fecha: 12/03/2015
 
 
-  NOTAS DE ESTA VERSION:
+
+  NOTAS SOBRE ESTA VERSION:
   
     - Arcoiris v1.1 es un pequeño programa para acceder al sensor TSC3200 y obtener lecturas de color en formato RGB
  
